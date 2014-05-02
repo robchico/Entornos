@@ -4,7 +4,7 @@ public class Ejer5 {
 
 	public Ejer5(){
 /**
- * cambio 2
+ * cambio 3
  */
 		System.out.println("solo es eun ejercicio para usar GITHUB");
 		
